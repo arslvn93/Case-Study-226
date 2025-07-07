@@ -71,7 +71,7 @@ const config = {
         "Developed a targeted marketing strategy that highlighted the home's advantages over similar properties"
       ],
       "testimonial": {
-        "quote": "\"\"Thank you for handling all of the logistics of coordinating photos, cleaners, inspections etc. You made what could have been an incredibly stressful situation completely manageable. We never had to worry about carrying two mortgages or being forced into becoming landlords. You understood our unique situation and worked around our challenges instead of making them worse.\"\"<br><span>— Satisfied Client</span>"
+        "quote": "\"Thank you for handling all of the logistics of coordinating photos, cleaners, inspections etc. You made what could have been an incredibly stressful situation completely manageable. We never had to worry about carrying two mortgages or being forced into becoming landlords. You understood our unique situation and worked around our challenges instead of making them worse.\"<br><span>"
       }
     },
     {
