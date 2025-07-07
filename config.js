@@ -123,7 +123,7 @@ const config = {
     "brokerageName": "Real Broker LTD",
     "brokerageAddress": "5-2000 Thurston Drive Ottawa, ON K1G 4K7",
     "secondaryLogo": {
-      "src": "https://i.imgur.com/9GIzqTo.png"
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVSHbfg_i_W17VaiKQBztotzcNLyni_fSwlwpMmg5C0MFae-VFXIgIm3LwjNNEXmUIBSg&usqp=CAU"
     },
     "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary.",
     "privacyPolicy": {
