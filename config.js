@@ -87,7 +87,7 @@ const config = {
     {
       "type": "standard",
       "title": "The Results",
-      "paragraphs": [
+      "listItems": [
         "<strong>SOLD IN JUST 12 DAYS</strong> while identical properties languished for 50+ days",
         "<strong>ELIMINATED DUAL MORTGAGE STRESS</strong> - closed before their new home possession",
         "<strong>6 STRATEGIC SHOWINGS</strong> generated 2 solid offers",
