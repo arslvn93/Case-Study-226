@@ -31,7 +31,7 @@ const config = {
     "summary": {
       "title": "How We Helped Growing Family Sell Their Home in Just 12 Days While Managing a Disability - Even When Identical Properties Sat Unsold for 50+ Days",
       "heroImage": {
-        "src": "https://ibb.co/gL6RZBbx"
+        "src": "https://i.ibb.co/JwCsjMW9/1-web-or-mls-16-alfa-st.jpg"
       },
       "subTitle": "Summary",
       "paragraphs": [
@@ -81,7 +81,7 @@ const config = {
         "Having successfully negotiated their new home purchase, the family knew they needed the same strategic approach for their sale. They chose to work with us again because they had witnessed our ability to fight hard for their interests and navigate complex situations with care and precision."
       ],
       "image": {
-        "src": "https://ibb.co/DgSf2yzG"
+        "src": "https://i.ibb.co/x8RqT0Xm/9-web-or-mls-16-alfa-st.jpg"
       }
     },
     {
