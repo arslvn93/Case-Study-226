@@ -1,9 +1,3 @@
-// =================================================================================================
-// PAGE CONFIGURATION OBJECT
-// This file defines all the dynamic content for the case study page.
-// The `renderer.js` file reads this object to build the HTML.
-// To change text, images, or other content, edit the values in this file.
-// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
     "companyName": "Nicholas Crouch",
@@ -14,7 +8,7 @@ const config = {
     "agents": [
       {
         "name": "Nicholas Crouch",
-        "imageSrc": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/d2790f33-ef94-4965-98c1-43911c603af6/nicks-headshot.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UXVYYFFU%2F20250703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250703T164640Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBEaCXVzLXdlc3QtMiJHMEUCIG%2BsgNvo06AcJ6BM%2F1Fs2iXJ9%2BDz8HsR2usvXNJ5ZyrwAiEArSjSliuLJgrbN%2F3%2B5MrTIL59O6w1KUt5wTy2ArlR3Dkq%2FwMIGhAAGgw2Mzc0MjMxODM4MDUiDOr40WuZ9PCe4la7HyrcA2As7XrGXJME2qBebcq5jD6R%2BuIxw%2BqG9c%2BeiG2QhsZlcndCEbFysf%2FJbF7%2FbnuL5lUt9%2BiztMlnStAIzV7FwxGIpsJ9CDSzaiI7yDqez4u93ueJEsAvPZ5itBRotMOAA8hHF1%2FauvuaJ6H5Yt2LXnibrFeAXNDlV1Spap4JbC4t0DPSUxynucAzILxw2FFGAOwIb2MJAeOHbKoELvpQCZ7JfceOiilm2aojD%2BaLj%2BjtUFWhAdWy7rXkTmhLBq5YUzJM3PJZ%2B%2FxpjEYe3Y12%2FN7qySPB%2BIMPn%2FLUcE3q8K0KztXGs5RshRAx7cP%2BKMpj50i9F5Xkwi4pJYJXKQRFMWtd9SgP4pDn35JjbSiBzIv%2BvJO%2BvVF1U1ndX9kkgJRLwuo%2FXadX2CW8cYZxeVqNk%2Fm8nTvHE942QFpPWXX8l%2F10Zmx%2FgvUhEnbBzR7lDpcjdWj0DuRXgFCzTD2lO5TQby9IcL%2FQ2RrnVjzJ5q9WpMpR9PvEOXljYH3eh1VRGH3rblmxatBQom01Iq4SvioXo8weYAgZgSoi5Ho77kejxayNM9%2BeQXIXG0bCykf%2B5LPqQ67vuo56w%2BM3JYcb%2B7vr4qM2V0mqtGKR28uNbuh58%2BDfSTUlshvmYnrfTbLqML7mmsMGOqUBJOJOX%2FWa3HioN72YAaNYEuGpFsssNxnbqALDhsbmYk9zHwb7mFSUFtD4MdiNAwBs44FJhHdWcL5ROO5j0S9%2B2jH8zHnumkP%2FevHvgATvYrdOKt4835GE13rXFb6SSmDAjkYAub%2FIvis9JcXW4sxKm3QidD2TxoFlISKzAk34FRQ4gBWg%2BY7h7fYoYklPi5wh3GaP%2FXlpsM4AOIB%2Fa2ZGA6ti64rp&X-Amz-Signature=2f3919472672b2afb4f6167b277e4a3c7871be5d903ddd0af1eaf89b9934afb2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+        "imageSrc": "https://media.licdn.com/dms/image/v2/D4E03AQEkqdRG72EdRQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710593268020?e=2147483647&v=beta&t=CXjmpyDYNfmdAkZju_DfvE735XBWztvJIG-MQ0dT6gg",
         "contactDetails": [
           {
             "type": "email",
@@ -22,7 +16,7 @@ const config = {
           },
           {
             "type": "phone",
-            "value": "1 613 806 5116"
+            "value": "+1 (613) 806-5116"
           }
         ]
       }
@@ -37,7 +31,7 @@ const config = {
     "summary": {
       "title": "How We Helped Growing Family Sell Their Home in Just 12 Days While Managing a Disability - Even When Identical Properties Sat Unsold for 50+ Days",
       "heroImage": {
-        "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=800&q=80"
+        "src": "https://ibb.co/gL6RZBbx"
       },
       "subTitle": "Summary",
       "paragraphs": [
@@ -51,7 +45,7 @@ const config = {
         "src": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/d2790f33-ef94-4965-98c1-43911c603af6/nicks-headshot.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UXVYYFFU%2F20250703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250703T164640Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBEaCXVzLXdlc3QtMiJHMEUCIG%2BsgNvo06AcJ6BM%2F1Fs2iXJ9%2BDz8HsR2usvXNJ5ZyrwAiEArSjSliuLJgrbN%2F3%2B5MrTIL59O6w1KUt5wTy2ArlR3Dkq%2FwMIGhAAGgw2Mzc0MjMxODM4MDUiDOr40WuZ9PCe4la7HyrcA2As7XrGXJME2qBebcq5jD6R%2BuIxw%2BqG9c%2BeiG2QhsZlcndCEbFysf%2FJbF7%2FbnuL5lUt9%2BiztMlnStAIzV7FwxGIpsJ9CDSzaiI7yDqez4u93ueJEsAvPZ5itBRotMOAA8hHF1%2FauvuaJ6H5Yt2LXnibrFeAXNDlV1Spap4JbC4t0DPSUxynucAzILxw2FFGAOwIb2MJAeOHbKoELvpQCZ7JfceOiilm2aojD%2BaLj%2BjtUFWhAdWy7rXkTmhLBq5YUzJM3PJZ%2B%2FxpjEYe3Y12%2FN7qySPB%2BIMPn%2FLUcE3q8K0KztXGs5RshRAx7cP%2BKMpj50i9F5Xkwi4pJYJXKQRFMWtd9SgP4pDn35JjbSiBzIv%2BvJO%2BvVF1U1ndX9kkgJRLwuo%2FXadX2CW8cYZxeVqNk%2Fm8nTvHE942QFpPWXX8l%2F10Zmx%2FgvUhEnbBzR7lDpcjdWj0DuRXgFCzTD2lO5TQby9IcL%2FQ2RrnVjzJ5q9WpMpR9PvEOXljYH3eh1VRGH3rblmxatBQom01Iq4SvioXo8weYAgZgSoi5Ho77kejxayNM9%2BeQXIXG0bCykf%2B5LPqQ67vuo56w%2BM3JYcb%2B7vr4qM2V0mqtGKR28uNbuh58%2BDfSTUlshvmYnrfTbLqML7mmsMGOqUBJOJOX%2FWa3HioN72YAaNYEuGpFsssNxnbqALDhsbmYk9zHwb7mFSUFtD4MdiNAwBs44FJhHdWcL5ROO5j0S9%2B2jH8zHnumkP%2FevHvgATvYrdOKt4835GE13rXFb6SSmDAjkYAub%2FIvis9JcXW4sxKm3QidD2TxoFlISKzAk34FRQ4gBWg%2BY7h7fYoYklPi5wh3GaP%2FXlpsM4AOIB%2Fa2ZGA6ti64rp&X-Amz-Signature=2f3919472672b2afb4f6167b277e4a3c7871be5d903ddd0af1eaf89b9934afb2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
       },
       "paragraphs": [
-        "At {{companyName}} we provide professional real estate services with integrity, expertise, and dedication to our clients' success. Our experienced team combines market knowledge with personalized service to help you achieve your real estate goals. Whether you're buying, selling, or investing, we're here to guide you through every step of the process with transparency and results-driven strategies."
+        "I pride myself on being more than just a real estate agent—I’m a trusted advisor who is committed to helping my clients reach their real estate goals.\n\nEmpowering Consumers. Delivering Results.\n\nMy approach is built on honesty, transparency, and a keen attention to detail, ensuring a positive experience from start to finish.\n\nI specialize in high-value residential properties, and I’m well-versed in the\n\nOttawa real estate market.\n\nMy clients appreciate my ability to anticipate challenges, identify investment potential, create winning strategies, and deliver results that exceed expectations.\n\nWhether you’re purchasing your first home or selling a long-time family property, I’m dedicated to providing guidance and support every step of the way. Let’s work together to make your real estate dreams a reality!"
       ]
     }
   },
@@ -87,7 +81,7 @@ const config = {
         "Having successfully negotiated their new home purchase, the family knew they needed the same strategic approach for their sale. They chose to work with us again because they had witnessed our ability to fight hard for their interests and navigate complex situations with care and precision."
       ],
       "image": {
-        "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=800&q=80"
+        "src": "https://ibb.co/DgSf2yzG"
       }
     },
     {
@@ -134,10 +128,10 @@ const config = {
       "text": "Privacy Policy",
       "href": "https://onereal.ca/pages/privacy-policy"
     }
-  }
+  },
+  "githubRepo": "https://github.com/arslvn93/Case-Study-226"
 };
 
-// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
