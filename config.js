@@ -2,7 +2,7 @@ const config = {
   "globals": {
     "companyName": "Nicholas Crouch",
     "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
+    "mainCTAButtonURL": "https://calendly.com/your-salesgenius-link",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
     "agents": [
@@ -25,7 +25,7 @@ const config = {
   "header": {
     "tag": "CASE STUDY",
     "title": "How We Helped Growing Family Sell Their Home in Just 12 Days While Managing a Disability - Even When Identical Properties Sat Unsold for 50+ Days",
-    "subheadline": "Purchased in a <strong>High-Demand Area</strong> With Strong Terms—Now <a href=\"#\">Generating Top-Dollar Rent</a> in a Tight Market"
+    "subheadline": "Purchased in a <strong>High-Demand Area</strong> With Strong Terms—Now Generating Top-Dollar Rent in a Tight Market"
   },
   "mainBox": {
     "summary": {
