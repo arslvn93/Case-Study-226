@@ -2,7 +2,7 @@ const config = {
   "globals": {
     "companyName": "Nicholas Crouch",
     "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "https://calendly.com/your-salesgenius-link",
+    "mainCTAButtonURL": "https://calendly.com/advantagebrokers/buyerstrategycall",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
     "agents": [
