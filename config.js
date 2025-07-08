@@ -42,7 +42,7 @@ const config = {
     "sidebar": {
       "title": "About {{companyName}}",
       "image": {
-        "src": "https://media.licdn.com/dms/image/v2/D4E03AQEkqdRG72EdRQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710593268020?e=2147483647&v=beta&t=CXjmpyDYNfmdAkZju_DfvE735XBWztvJIG-MQ0dT6gg"
+        "src": "https://assets.cdn.filesafe.space/qfdvIR5FbhVA9EXYI3Rd/media/6706f05f160b301049e310e3.webp"
       },
       "paragraphs": [
         "My approach is built on honesty, transparency, and a keen attention to detail, ensuring a positive experience from start to finish.\n\nI specialize in high-value residential properties, and I’m well-versed in the Ottawa real estate market.\n",
