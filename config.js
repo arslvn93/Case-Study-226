@@ -42,7 +42,7 @@ const config = {
     "sidebar": {
       "title": "About {{companyName}}",
       "image": {
-        "src": "https://media.licdn.com/dms/image/v2/D4E03AQEkqdRG72EdRQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710593268020?e=2147483647&v=beta&t=CXjmpyDYNfmdAkZju_DfvE735XBWztvJIG-MQ0dT6gg"
+        "src": "https://cdn.realtor.ca/individual/TS638778527400000000/highres/1299157.jpg"
       },
       "paragraphs": [
         "My approach is built on honesty, transparency, and a keen attention to detail, ensuring a positive experience from start to finish.\n\nI specialize in high-value residential properties, and I’m well-versed in the Ottawa real estate market.\n",
