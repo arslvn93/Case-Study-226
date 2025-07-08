@@ -42,7 +42,7 @@ const config = {
     "sidebar": {
       "title": "About {{companyName}}",
       "image": {
-        "src": "https://assets.cdn.filesafe.space/qfdvIR5FbhVA9EXYI3Rd/media/6706f05f160b301049e310e3.webp"
+        "src": "https://i.ibb.co/4wJ7cRPV/nick.webp"
       },
       "paragraphs": [
         "My approach is built on honesty, transparency, and a keen attention to detail, ensuring a positive experience from start to finish.\n\nI specialize in high-value residential properties, and I’m well-versed in the Ottawa real estate market.\n",
