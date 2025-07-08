@@ -31,7 +31,7 @@ const config = {
     "summary": {
       "title": "How We Helped Growing Family Sell Their Home in Just 12 Days While Managing a Disability - Even When Identical Properties Sat Unsold for 50+ Days",
       "heroImage": {
-        "src": "https://i.ibb.co/s9c90LRv/Chat-GPT-Image-2025-j-l-8-16-36-18.png"
+        "src": "https://i.ibb.co/fzz0KMPG/1-web-or-mls-16-alfa-st-1.jpg"
       },
       "subTitle": "Summary",
       "paragraphs": [
@@ -42,7 +42,7 @@ const config = {
     "sidebar": {
       "title": "About {{companyName}}",
       "image": {
-        "src": "https://i.ibb.co/4wJ7cRPV/nick.webp"
+        "src": "https://i.ibb.co/s9c90LRv/Chat-GPT-Image-2025-j-l-8-16-36-18.png"
       },
       "paragraphs": [
         "My approach is built on honesty, transparency, and a keen attention to detail, ensuring a positive experience from start to finish.\n\nI specialize in high-value residential properties, and I’m well-versed in the Ottawa real estate market.\n",
