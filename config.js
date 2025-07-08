@@ -31,7 +31,7 @@ const config = {
     "summary": {
       "title": "How We Helped Growing Family Sell Their Home in Just 12 Days While Managing a Disability - Even When Identical Properties Sat Unsold for 50+ Days",
       "heroImage": {
-        "src": "https://i.ibb.co/JwCsjMW9/1-web-or-mls-16-alfa-st.jpg"
+        "src": "https://i.ibb.co/s9c90LRv/Chat-GPT-Image-2025-j-l-8-16-36-18.png"
       },
       "subTitle": "Summary",
       "paragraphs": [
